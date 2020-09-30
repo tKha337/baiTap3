@@ -7,3 +7,8 @@ var bai1 = function() {
 var bai2 = function() {
     console.log('bai2');
 }
+
+
+var bai3  = function() {
+    console.log('bai3')
+}
